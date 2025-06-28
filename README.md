@@ -30,6 +30,14 @@
 
 ---
 
+---
+
+## 📜 Certifications : 
+
+[![Android Development](Android_Devlopment_Certificate.pdf) 
+
+---
+
 ## 😄 Pronouns
 
 **He / Him**
