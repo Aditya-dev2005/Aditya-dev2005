@@ -1,160 +1,142 @@
-# Rhythm-Aware Human Motion Diffusion Model (RA-MDM)
+# 👋 Hi, I'm Aditya Chaturvedi  
 
-> **Repository (current)**: `RA-MDM-Dance-Generation`
+![LeetCode](https://img.shields.io/badge/LeetCode-1740%2B%20Rating-orange)
+![Flutter](https://img.shields.io/badge/Flutter-Expert-blue)
+![AI%20Research](https://img.shields.io/badge/AI-Researcher-purple)
+![Open%20Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)
+![GSSOC](https://img.shields.io/badge/GSSOC-2025-yellow)
 
----
-
-## 🎵 Project Overview
-
-**Rhythm-Aware Human Motion Diffusion Model (RA-MDM)** generates synchronized, style-based dance animations driven by rhythm patterns and procedural motion logic. This repository contains:
-
-* Complete **Python implementation** (in Google Colab)
-* **Generated dance GIFs** for each style directly in the repo root (not in a subfolder)
-* Supporting academic artifacts — **research paper**, **project synopsis**, and **presentation**
+🎓 **3rd Year B.Tech CSE Student @ JIIT Noida**  
+💻 Passionate about **Data Structures & Algorithms**, **Android Development**, and **AI/ML Systems**  
+🧠 Actively exploring **Agentic AI**, **Cloud Computing**, and **Applied Research**
 
 ---
 
-## 🚀 Highlights / Features
+## 🚀 About Me  
 
-*  Supports 4 dance styles: **Hip-Hop**, **Ballet**, **Pop**, and **Breakdance (v3.1)**
-*  Rhythm-aware motion modulation
-*  Animated pose visualizations saved as GIFs
-*  Diffusion-inspired procedural generation logic
-*  Includes research paper, synopsis, and PPT for reference
-
----
-
-## 📂 Repository Structure (current)
-
-```
-RA-MDM-Dance-Generation/
-├─ README.md                  # (this file)
-├─ Untitled6.ipynb            # Google Colab notebook containing the full code
-├─ hiphop.gif                 # Output: Hip-Hop animation
-├─ ballet.gif                 # Output: Ballet animation
-├─ pop.gif                    # Output: Pop animation
-├─ breakdance.gif             # Output: Breakdance animation (v3.1 logic)
-├─ research_paper_with_figures.pdf
-├─ MInor PPT final.pdf
-└─ Minor Synopsis-1.pdf
-```
-
-> **Note:** GIFs are stored directly in the repository root, not in a separate folder.
+- 💡 Building AI-powered apps that combine **intelligence, security, and user wellness**  
+- 🧠 Experienced in **Flutter**, **Firebase**, and **Google Gemini API** for full-stack mobile solutions  
+- 🧩 Skilled in **C++**, **Kotlin**, **Python**, and **Dart**  
+- 🏗️ Strong foundation in **DSA, OOP, OS, DBMS, CN, and ML concepts**  
+- 🧭 Currently upskilling in **Gen AI** and **Agentic AI Systems**  
 
 ---
 
-## 🧭 How to Run (Google Colab)
+## 💡 Interests  
 
-You can run this project directly on **Google Colab**:
-
-1. Open `Untitled6.ipynb` in Colab.
-2. Run all cells sequentially.
-3. GIFs for all dance styles will be saved in your Colab environment and displayed inline.
-
-Example Colab execution:
-
-```python
-# Run the demonstration
-results = perfect_demonstration()
-```
+- 🧠 **Generative & Agentic AI** – integrating reasoning models into real-world systems  
+- 📱 **Cross-Platform Development** – Flutter + Firebase full-stack builds  
+- ⚙️ **Backend Engineering** – DSA-heavy systems and optimization algorithms  
+- 🔐 **AI Security & Ethics** – merging intelligence with responsible design  
 
 ---
 
-## 🧩 Output Previews
+## 🧩 Featured Projects  
 
-Below are the generated results (from your uploaded GIFs):
+### 🧠 [MindLink – AI-Powered Secure Communication App](https://github.com/Aditya-dev2005/mindlink-ai-chat)
+**Flutter | Firebase | Google Gemini | AES Encryption**  
+> An AI-enhanced, encrypted communication app for study groups and mental wellness.  
 
-### 🕺 Hip-Hop
+**Key Features**  
+- 🔐 End-to-End AES Encryption  
+- 🧠 Google Gemini AI integration for chat summarization and sentiment analysis  
+- 🔔 NLP-based smart reminders (“Remind me tomorrow…” → Auto Reminder)  
+- 🧭 Focus Mode with Pomodoro analytics and distraction tracking  
+- 📈 Performance Metrics:  
+  - ⚡ <100ms message delivery latency  
+  - 🔒 <50ms encryption overhead  
+  - 🧠 2–3s AI summary generation  
+  - 📊 Offline sync with Firebase persistence  
 
-![Hip-Hop](hiphop.gif)
-
-### 🩰 Ballet
-
-![Ballet](ballet.gif)
-
-### 🎤 Pop
-
-![Pop](pop.gif)
-
-### 🔥 Breakdance (v3.1)
-
-![Breakdance](breakdance.gif)
-
----
-
-## 🧱 Core Components
-
-| Component                 | Description                                                      |
-| ------------------------- | ---------------------------------------------------------------- |
-| `DanceDiffusionGenerator` | Procedurally generates poses based on style parameters.          |
-| `RhythmProcessor`         | Modulates motion according to rhythm/beat patterns.              |
-| `create_dance_animation`  | Creates and saves animated dance GIFs using Matplotlib.          |
-| `PerfectDancePipeline`    | Integrates all components and runs the full generation workflow. |
+> **Impact:** Used by multiple study groups for real-time collaboration and focus management.  
+> **Skills Highlight:** Flutter, Firebase, AI Integration, Data Security, UX Design  
 
 ---
 
-## 📄 Research Documents
+### 🕺 [Rhythm-Aware Motion Diffusion Model (RA-MDM)](https://github.com/Aditya-dev2005/RA-MDM-Dance-Generation)
+**PyTorch | Diffusion Models | NLP | Research Project**  
+> Generates rhythm-synchronized 3D human dance motion from textual prompts.  
 
-All documentation and supporting files are available in the repo root:
+**Highlights:**  
+- 🎵 Supports 4 dance styles (Hip-Hop, Ballet, Pop, Breakdance)  
+- 🧠 Implements rhythm-aware procedural diffusion logic  
+- 🎥 Generates motion GIFs directly in Colab  
+- 📄 Includes full **research paper, synopsis, and PPT**  
 
-* **Research Paper** – `research_paper_with_figures.pdf`
-* **Minor Project PPT** – `MInor PPT final.pdf`
-* **Synopsis** – `Minor Synopsis-1.pdf`
-
----
-
-## ⚙️ Dependencies
-
-Install these packages in your Colab or local environment:
-
-```bash
-pip install matplotlib numpy torch pillow ipython
-```
-
-(Optional: for rhythm beat extraction)
-
-```bash
-pip install librosa
-```
+> **Recognition:** Guided by Dr. Alka Singhal (JIIT) as a minor project & research publication.  
+> **Skills Highlight:** Generative AI, Deep Learning, Data Visualization, Research  
 
 ---
 
-## 🧪 Example: Generate a Single Style
+### 🚨 [D-RRAS – Disaster Relief and Resource Allocation System](https://github.com/Aditya-dev2005/D-RRAS)
+**C++ | Dijkstra | Greedy | Knapsack Algorithms**  
+> Backend simulation for real-time disaster management and relief routing.  
 
-```python
-pipeline = PerfectDancePipeline()
-motion, gif_file = pipeline.generate_style_dance(
-    text_prompt="energetic hip-hop with strong beats",
-    style="hip-hop",
-    num_frames=60
-)
-```
+**Key Features:**  
+- 🔍 Dynamic pathfinding with Dijkstra & Greedy approaches  
+- ⚡ Real-time route and volunteer allocation simulation  
+- 🧮 Optimized resource distribution using Knapsack logic  
+- 💾 Persistent file I/O for data tracking  
 
-This creates and displays `hiphop.gif` in the runtime.
-
----
-
-## 🧾 Citation
-
-**Authors:** Aditya Chaturvedi, Aditya Bajaj, Lovish Kumar
-**Supervisor:** Dr. Alka Singhal
-
-If you use this project or its paper, please cite the included `research_paper_with_figures.pdf`.
+> **Skills Highlight:** C++, DSA, Graph Algorithms, Problem Solving, Backend Simulation  
 
 ---
 
-## 🛡️ License
+## 🏆 Achievements  
 
-MIT License © 2025 Aditya Chaturvedi et al.
-
----
-
-## 🌟 Future Work
-
-* Integration with real-time beat extraction (via Librosa)
-* Neural diffusion model replacement for procedural motion
-* Style transfer and fine-tuning for hybrid dance motions
+- 💪 Solved **1000+ DSA problems** across LeetCode & GFG  
+- 🥇 **1750+ LeetCode rating** (Top 10%)  
+- 🧠 Completed **Striver’s A2Z DSA Sheet (450+ problems)**  
+- 🌐 **Open Source Contributor @ GSSOC’25**  
+  - Enhanced app security, UX, and features in Flutter-based fitness app  
+  - Improved session retention by 25% through gamified features  
+- 📜 Research Paper on **AI-based Motion Diffusion Model** under publication review  
 
 ---
 
-**⭐ Don’t forget to star the repository if you find it useful!**
+## 🧭 Vision & Next Steps  
+
+- 🌍 Building intelligent systems where **AI enhances focus, productivity, and human connection**  
+- 🧩 Exploring **Agentic AI** with LangGraph & AutoGen for self-reasoning apps  
+- ☁️ Upskilling in **Cloud (AWS/GCP)** for scalable deployment  
+- 🎯 Targeting **AI/ML, Android, or Full-Stack Internship Roles** at top product companies  
+
+---
+
+## 🧰 Tech Stack  
+
+| Domain | Tools & Technologies |
+|--------|----------------------|
+| **Languages** | C++, Kotlin, Dart, Python, Java, JavaScript, SQL |
+| **Mobile Dev** | Flutter, Android Studio, Jetpack, Firebase, Retrofit |
+| **AI/ML** | PyTorch, TensorFlow, Gemini API, LangChain |
+| **Cloud & Tools** | GCP, AWS, Git, Postman, Figma |
+| **CS Fundamentals** | DSA, OOP, OS, DBMS, CN, AI/ML |
+
+---
+
+## 🏅 Awards & Recognition  
+
+- 🎖️ Recognized as **Top Contributor @ GSSOC’25**  
+- 📜 Research paper shortlisted for **college-level publication** under faculty guidance  
+- 🧠 Ranked in top 10% on LeetCode contests  
+
+---
+
+## 📊 GitHub Stats  
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-dev2005&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-dev2005&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let's Connect  
+
+- 📧 Email: **adityachat.5760@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/aditya-chaturvedi-8b7776302](https://www.linkedin.com/in/aditya-chaturvedi-8b7776302)  
+- 🧑‍💻 GitHub: [github.com/Aditya-dev2005](https://github.com/Aditya-dev2005)
+
+---
+
+⭐ **“Technology that doesn’t serve humans isn’t intelligence — it’s automation.”**  
+Built with ❤️ by Aditya Chaturvedi
