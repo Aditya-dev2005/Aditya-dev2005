@@ -132,7 +132,7 @@
 
 ## 🤝 Let's Connect  
 
-- 📧 Email: **adityachat.5760@gmail.com**  
+- 📧 Email: **adichat571@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/aditya-chaturvedi-8b7776302](https://www.linkedin.com/in/aditya-chaturvedi-8b7776302)  
 - 🧑‍💻 GitHub: [github.com/Aditya-dev2005](https://github.com/Aditya-dev2005)
 
