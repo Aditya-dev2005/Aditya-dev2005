@@ -25,6 +25,7 @@ Computer Science undergraduate at **JIIT Noida** focused on:
 - Scalable AI Applications
 
 Currently building systems that combine:
+
 > AI research + production-grade engineering.
 
 ---
@@ -32,15 +33,19 @@ Currently building systems that combine:
 # Tech Stack
 
 ### Languages
+
 `C++` `Python` `Java` `Kotlin` `SQL` `Dart`
 
 ### Backend & Infrastructure
+
 `FastAPI` `Redis` `REST APIs` `Docker` `JWT` `FAISS` `Firebase`
 
 ### AI / ML
+
 `PyTorch` `PyTorch Geometric` `LangChain` `RAG` `LLMs` `Diffusion Models`
 
 ### Tools
+
 `Git/GitHub` `Postman` `MySQL` `Figma` `Streamlit`
 
 ---
@@ -48,11 +53,13 @@ Currently building systems that combine:
 # Featured Projects
 
 ## ContextCore — RAG Document Intelligence
+
 **Python • FastAPI • Redis • FAISS**
 
 Hybrid retrieval architecture combining vector search and BM25 ranking with Reciprocal Rank Fusion.
 
 ### Highlights
+
 - Redis caching reduced latency from **2.5s → 4ms**
 - Real-time SSE token streaming
 - Multi-user isolated vector stores
@@ -61,11 +68,13 @@ Hybrid retrieval architecture combining vector search and BM25 ranking with Reci
 ---
 
 ## RA-MDM — Rhythm-Aware Motion Diffusion
+
 **PyTorch • Diffusion Models • Librosa**
 
 Research-oriented rhythm-conditioned diffusion framework for text-to-motion generation.
 
 ### Highlights
+
 - Achieved **0.94 beat alignment**
 - Improved FID by **18%**
 - FiLM-conditioned diffusion pipeline
@@ -74,11 +83,13 @@ Research-oriented rhythm-conditioned diffusion framework for text-to-motion gene
 ---
 
 ## GAT Land Cover Classification
+
 **PyTorch Geometric • Graph Neural Networks**
 
 Graph Attention Network pipeline for satellite image land cover classification.
 
 ### Highlights
+
 - Reduced image complexity **50×**
 - Achieved **76.9% accuracy**
 - NDVI-based feature engineering
@@ -89,6 +100,7 @@ Graph Attention Network pipeline for satellite image land cover classification.
 # Experience
 
 ## GirlScript Summer of Code (GSSOC'25)
+
 **Open Source Contributor**
 
 - Engineered OTP-based authentication improvements
@@ -108,27 +120,36 @@ Graph Attention Network pipeline for satellite image land cover classification.
 
 ---
 
-# GitHub Stats
+# Engineering Snapshot
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aditya-dev2005&show_icons=true&theme=github_dark&hide_border=true&border_radius=10"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-dev2005&layout=compact&theme=github_dark&hide_border=true&border_radius=10"/>
-</p>
+```yaml
+LeetCode Rating:      1720+
+DSA Problems Solved:  1000+
+Research Papers:      2
+Open Source:          GSSOC'25 Contributor
 
----
+Core Domains:
+  - Backend Systems
+  - Retrieval-Augmented Generation
+  - Diffusion Models
+  - Graph Neural Networks
+  - Distributed AI Systems
+```
 
-# Connect
+#### Current Focus
 
-- Email: **adichat571@gmail.com**
-- LinkedIn:  
-  [linkedin.com/in/aditya-chaturvedi-8b7776302](https://linkedin.com/in/aditya-chaturvedi-8b7776302)
+Building scalable RAG pipelines using FastAPI, Redis, and FAISS
+Researching rhythm-conditioned diffusion architectures
+Exploring distributed backend systems and AI infrastructure
+Strengthening problem solving and systems design fundamentals
 
-- GitHub:  
-  [github.com/Aditya-dev2005](https://github.com/Aditya-dev2005)
+Connect
+Email: adichat571@gmail.com
 
----
+LinkedIn:
+[Aditya Chaturvedi](https://www.linkedin.com/in/aditya-chaturvedi05/)
 
-<p align="center">
-  Building scalable intelligent systems at the intersection of AI research and software engineering.
-</p>
+GitHub:
+github.com/Aditya-dev2005
+
+<p align="center"> Building scalable intelligent systems at the intersection of AI research and software engineering. </p> 
