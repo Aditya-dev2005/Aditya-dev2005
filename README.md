@@ -1,142 +1,134 @@
-# 👋 Hi, I'm Aditya Chaturvedi  
+<h1 align="center">Aditya Chaturvedi</h1>
 
-![LeetCode](https://img.shields.io/badge/LeetCode-1740%2B%20Rating-orange)
-![Flutter](https://img.shields.io/badge/Flutter-Expert-blue)
-![AI%20Research](https://img.shields.io/badge/AI-Researcher-purple)
-![Open%20Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)
-![GSSOC](https://img.shields.io/badge/GSSOC-2025-yellow)
+<p align="center">
+  AI Systems • Backend Engineering • Research Engineering
+</p>
 
-🎓 **3rd Year B.Tech CSE Student @ JIIT Noida**  
-Passionate about **Data Structures & Algorithms**, **Android Development**, and **AI/ML Systems**  
-Actively exploring **Agentic AI**, **Cloud Computing**, and **Applied Research**
-
----
-
-## 🚀 About Me  
-
--  Building AI-powered apps that combine **intelligence, security, and user wellness**  
--  Experienced in **Flutter**, **Firebase**, and **Google Gemini API** for full-stack mobile solutions  
--  Skilled in **C++**, **Kotlin**, **Python**, and **Dart**  
--  Strong foundation in **DSA, OOP, OS, DBMS, CN, and ML concepts**  
--  Currently upskilling in **Gen AI** and **Agentic AI Systems**  
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-1720%2B-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-1000%2B%20Problems-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GSSOC-Open%20Source-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Research-IEEE%20Submission-purple?style=for-the-badge"/>
+</p>
 
 ---
 
-## 💡 Interests  
+## About Me
 
--  **Generative & Agentic AI** – integrating reasoning models into real-world systems  
--  **Cross-Platform Development** – Flutter + Firebase full-stack builds  
--  **Backend Engineering** – DSA-heavy systems and optimization algorithms  
--  **AI Security & Ethics** – merging intelligence with responsible design  
+Computer Science undergraduate at **JIIT Noida** focused on:
 
----
+- Retrieval-Augmented Generation (RAG)
+- Backend Infrastructure
+- Distributed Systems
+- Diffusion Models
+- Graph Neural Networks
+- Scalable AI Applications
 
-## 🧩 Featured Projects  
-
-###  [MindLink – AI-Powered Secure Communication App](https://github.com/Aditya-dev2005/mindlink-ai-chat)
-**Flutter | Firebase | Google Gemini | AES Encryption**  
-> An AI-enhanced, encrypted communication app for study groups and mental wellness.  
-
-**Key Features**  
--  End-to-End AES Encryption  
--  Google Gemini AI integration for chat summarization and sentiment analysis  
--  NLP-based smart reminders (“Remind me tomorrow…” → Auto Reminder)  
--  Focus Mode with Pomodoro analytics and distraction tracking  
--  Performance Metrics:  
-  -  <100ms message delivery latency  
-  -  <50ms encryption overhead  
-  -  2–3s AI summary generation  
-  -  Offline sync with Firebase persistence  
-
-> **Impact:** Used by multiple study groups for real-time collaboration and focus management.  
-> **Skills Highlight:** Flutter, Firebase, AI Integration, Data Security, UX Design  
+Currently building systems that combine:
+> AI research + production-grade engineering.
 
 ---
 
-### 🕺 [Rhythm-Aware Motion Diffusion Model (RA-MDM)](https://github.com/Aditya-dev2005/RA-MDM-Dance-Generation)
-**PyTorch | Diffusion Models | NLP | Research Project**  
-> Generates rhythm-synchronized 3D human dance motion from textual prompts.  
+# Tech Stack
 
-**Highlights:**  
--  Supports 4 dance styles (Hip-Hop, Ballet, Pop, Breakdance)  
--  Implements rhythm-aware procedural diffusion logic  
--  Generates motion GIFs directly in Colab  
--  Includes full **research paper, synopsis, and PPT**  
+### Languages
+`C++` `Python` `Java` `Kotlin` `SQL` `Dart`
 
-> **Recognition:** Guided by Dr. Alka Singhal (JIIT) as a minor project & research publication.  
-> **Skills Highlight:** Generative AI, Deep Learning, Data Visualization, Research  
+### Backend & Infrastructure
+`FastAPI` `Redis` `REST APIs` `Docker` `JWT` `FAISS` `Firebase`
 
----
+### AI / ML
+`PyTorch` `PyTorch Geometric` `LangChain` `RAG` `LLMs` `Diffusion Models`
 
-###  [D-RRAS – Disaster Relief and Resource Allocation System](https://github.com/Aditya-dev2005/D-RRAS)
-**C++ | Dijkstra | Greedy | Knapsack Algorithms**  
-> Backend simulation for real-time disaster management and relief routing.  
-
-**Key Features:**  
--  Dynamic pathfinding with Dijkstra & Greedy approaches  
--  Real-time route and volunteer allocation simulation  
--  Optimized resource distribution using Knapsack logic  
--  Persistent file I/O for data tracking  
-
-> **Skills Highlight:** C++, DSA, Graph Algorithms, Problem Solving, Backend Simulation  
+### Tools
+`Git/GitHub` `Postman` `MySQL` `Figma` `Streamlit`
 
 ---
 
-## 🏆 Achievements  
+# Featured Projects
 
--  Solved **1000+ DSA problems** across LeetCode & GFG  
--  **1750+ LeetCode rating** (Top 10%)  
--  Completed **Striver’s A2Z DSA Sheet (450+ problems)**  
--  **Open Source Contributor @ GSSOC’25**  
-  - Enhanced app security, UX, and features in Flutter-based fitness app  
-  - Improved session retention by 25% through gamified features  
--  Research Paper on **AI-based Motion Diffusion Model** under publication review  
+## ContextCore — RAG Document Intelligence
+**Python • FastAPI • Redis • FAISS**
 
----
+Hybrid retrieval architecture combining vector search and BM25 ranking with Reciprocal Rank Fusion.
 
-## 🧭 Vision & Next Steps  
-
--  Building intelligent systems where **AI enhances focus, productivity, and human connection**  
--  Exploring **Agentic AI** with LangGraph & AutoGen for self-reasoning apps  
--  Upskilling in **Cloud (AWS/GCP)** for scalable deployment  
--  Targeting **AI/ML, Android, or Full-Stack Internship Roles** at top product companies  
+### Highlights
+- Redis caching reduced latency from **2.5s → 4ms**
+- Real-time SSE token streaming
+- Multi-user isolated vector stores
+- Horizontally scalable backend pipeline
 
 ---
 
-## 🧰 Tech Stack  
+## RA-MDM — Rhythm-Aware Motion Diffusion
+**PyTorch • Diffusion Models • Librosa**
 
-| Domain | Tools & Technologies |
-|--------|----------------------|
-| **Languages** | C++, Kotlin, Dart, Python, Java, JavaScript, SQL |
-| **Mobile Dev** | Flutter, Android Studio, Jetpack, Firebase, Retrofit |
-| **AI/ML** | PyTorch, TensorFlow, Gemini API, LangChain |
-| **Cloud & Tools** | GCP, AWS, Git, Postman, Figma |
-| **CS Fundamentals** | DSA, OOP, OS, DBMS, CN, AI/ML |
+Research-oriented rhythm-conditioned diffusion framework for text-to-motion generation.
 
----
-
-## 🏅 Awards & Recognition  
-
--  Recognized as **Top Contributor @ GSSOC’25**  
--  Research paper shortlisted for **college-level publication** under faculty guidance  
--  Ranked in top 10% on LeetCode contests  
+### Highlights
+- Achieved **0.94 beat alignment**
+- Improved FID by **18%**
+- FiLM-conditioned diffusion pipeline
+- Published on ResearchGate
 
 ---
 
-## 📊 GitHub Stats  
+## GAT Land Cover Classification
+**PyTorch Geometric • Graph Neural Networks**
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-dev2005&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-dev2005&layout=compact&theme=radical)
+Graph Attention Network pipeline for satellite image land cover classification.
 
----
-
-## 🤝 Let's Connect  
-
--  Email: **adichat571@gmail.com**  
--  LinkedIn: [linkedin.com/in/aditya-chaturvedi-8b7776302](https://www.linkedin.com/in/aditya-chaturvedi-8b7776302)  
--  GitHub: [github.com/Aditya-dev2005](https://github.com/Aditya-dev2005)
+### Highlights
+- Reduced image complexity **50×**
+- Achieved **76.9% accuracy**
+- NDVI-based feature engineering
+- Submitted to IEEE IC3-2026
 
 ---
 
-⭐ **“Technology that doesn’t serve humans isn’t intelligence — it’s automation.”**  
-Built with ❤️ by Aditya Chaturvedi
+# Experience
+
+## GirlScript Summer of Code (GSSOC'25)
+**Open Source Contributor**
+
+- Engineered OTP-based authentication improvements
+- Integrated Twilio verification systems
+- Merged **15+ PRs** across multiple repositories
+- Improved application security and UX
+
+---
+
+# Achievements
+
+- **1720+ LeetCode Rating** (Top 5%)
+- Solved **1000+ DSA problems**
+- Research work on Diffusion Models
+- IEEE/SCOPUS paper submission
+- Open-source contributor at GSSOC'25
+
+---
+
+# GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aditya-dev2005&show_icons=true&theme=github_dark&hide_border=true&border_radius=10"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-dev2005&layout=compact&theme=github_dark&hide_border=true&border_radius=10"/>
+</p>
+
+---
+
+# Connect
+
+- Email: **adichat571@gmail.com**
+- LinkedIn:  
+  [linkedin.com/in/aditya-chaturvedi-8b7776302](https://linkedin.com/in/aditya-chaturvedi-8b7776302)
+
+- GitHub:  
+  [github.com/Aditya-dev2005](https://github.com/Aditya-dev2005)
+
+---
+
+<p align="center">
+  Building scalable intelligent systems at the intersection of AI research and software engineering.
+</p>
