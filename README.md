@@ -140,6 +140,7 @@ Core Domains:
 
 Building scalable RAG pipelines using FastAPI, Redis, and FAISS
 Researching rhythm-conditioned diffusion architectures
+
 Exploring distributed backend systems and AI infrastructure
 Strengthening problem solving and systems design fundamentals
 
